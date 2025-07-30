@@ -1,7 +1,6 @@
 # Hi 👋, I'm Purva Pujari  
 
-🎓 I’m a Computer Engineering undergraduate with a passion for **Data Science, Artificial Intelligence and Machine Learning**.  
-I love working on projects that combine **data-driven insights** with **intelligent automation** to solve real-world problems.  
+🎓 I’m a Computer Engineering undergraduate with a passion for **Data Science, Artificial Intelligence and Machine Learning**. I love working on projects that combine **data-driven insights** with **intelligent automation** to solve real-world problems.  
 ---
 
 - 🔭 I’m currently working on **Machine Learning & Data Science Projects**  
